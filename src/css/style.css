@@ -7,6 +7,7 @@
 body{
     background-repeat: no-repeat;
     background-size: cover;
+    background-color:grey;
 }
 header{
     padding: 5px;
@@ -82,6 +83,7 @@ footer{
 @media screen and (max-width: 767px){ /*Telas pequenas*/
     body{
         background-image: url(".././img/backgroundCellPhone.jpg");
+        background-color:yellow;
     }
     .logo{
         width: 20%;
